@@ -11,5 +11,5 @@
  - This all is built using Python Libraries namely: OpenCV, Numpy, statistics, math, etc.
 
 ### Sample Output:
- - This is the a frame from the output of the project.
+ - This is a frame from the output of the project.
  ![one frame of output](https://raw.githubusercontent.com/SuyashVerma2311/Lane-Detection-and-Steering/main/Pipeline/Sample_image.jpg?token=ANIF34FSQCYIVE7DZYSKBHTAUP4Q2)
